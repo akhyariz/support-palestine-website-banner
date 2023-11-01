@@ -6,6 +6,8 @@ This repo contains website banner for support Palestine. It is cloned with some 
 Use this snippet to show your support for Palestinians on top of your website.
 ![image](https://github.com/akhyariz/support-palestine-website-banner/assets/182084/3a6cafce-95fc-40f7-bc02-4c9a91015662)
 
+## Demo
+[Akhyari Zudhi's Blog](https://blog.ers.web.id)
 
 ## About the Website Banner
 This code adds a small black banner on top of your website with Palestinian flag and support message. It links to [International Networking for Humanitarian INH](https://kitabisa.com/orang-baik/7617a239efacb2c3894cf39d8045fc20) X [Kitabisa](https://kitabisa.com) donation site but you can change the link to point to a support channel of your choice.
